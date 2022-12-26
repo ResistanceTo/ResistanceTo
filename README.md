@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ResistanceTo
 
-- 🕹 I used to be a player who liked playing games
+- 🕹 I am a player who likes stand-alone games
 
 <!---
 ResistanceTo/ResistanceTo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
